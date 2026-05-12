@@ -8,9 +8,9 @@ This investigation was conducted using Splunk Enterprise with the BOTS dataset t
 
 # Dashboard Overview
 
-![Dashboard](Images/dashboard1.png)
-![Dashboard](Images/dashboard2.png)
-![Dashboard](Images/dashboard3.png)
+![Dashboard](Images/dashboard01.png)
+![Dashboard](Images/dashboard02.png)
+![Dashboard](Images/dashboard03.png)
 
 The dashboard provides visibility into:
 - Top source IP addresses
