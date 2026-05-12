@@ -23,7 +23,7 @@ The dashboard provides visibility into:
 
 # Top Source IP Analysis
 
-![Top Source IPs](images/most-attempted-ip.png)
+![Top Source IPs](Images/most-attempted-ip.png)
 
 The firewall logs revealed that the IP address `192.168.225.111` generated the highest amount of traffic with approximately `32,480` events.
 
@@ -54,7 +54,7 @@ Continuous monitoring of this host is recommended.
 
 # Investigation of High Traffic Source IP
 
-![High Traffic IP Investigation](images/Investigation-of-High-Traffic-Source-IP.png)
+![High Traffic IP Investigation](Images/Investigation-of-High-Traffic-Source-IP.png)
 
 Further investigation of source IP `192.168.225.111` revealed detailed Fortigate firewall events associated with the host.
 
@@ -93,7 +93,7 @@ Further endpoint investigation is recommended to determine the root cause of the
 
 # Most Targeted Ports Analysis
 
-![Most Targeted Ports](images/Most-Targeted-Ports.png)
+![Most Targeted Ports](Images/Most-Targeted-Ports.png)
 
 Analysis of destination ports identified several heavily targeted services within the firewall traffic logs.
 
@@ -129,7 +129,7 @@ The extremely high volume of DNS traffic should be investigated further.
 
 # Network Traffic Timeline
 
-![Traffic Timeline](images/Traffic-Timeline.png)
+![Traffic Timeline](Images/Traffic-Timeline.png)
 
 The traffic timeline visualization identified fluctuations and spikes in firewall traffic volume over time.
 
@@ -157,7 +157,7 @@ Sudden increases in network traffic may represent suspicious or unauthorized act
 
 # Traffic Source Countries
 
-![Traffic Source Countries](images/Traffic-Source-Countries.png)
+![Traffic Source Countries](Images/Traffic-Source-Countries.png)
 
 Geographic analysis was performed to identify the origin countries associated with firewall traffic events.
 
