@@ -17,6 +17,18 @@ The investigations focus on:
 
 All investigations were performed using realistic attack logs from the BOTS dataset inside Splunk.
 
+
+---
+
+## Investigation Write-ups Table
+
+| Investigation | Description |
+|:---:|:---:|
+| [SSH Brute Force Attack Investigation](SSH-Brute-Force-Attack-Investigation/README.md) | Investigating SSH brute-force attacks using Splunk to identify failed login attempts, targeted usernames, suspicious source IPs, attack patterns, and successful authentications. |
+| [Firewall Monitoring](Firewall-Monitoring/README.md) | Monitoring firewall logs to identify blocked connections, suspicious source IPs, unusual traffic patterns, and potential network attacks. |
+
+---
+
 ---
 
 ## About Boss of the SOC (BOTS)
@@ -45,15 +57,7 @@ This project demonstrates practical SIEM investigation workflows using SPL queri
 - Windows Event Logs
 - MITRE ATT&CK Framework
 
----
 
-## Investigation Write-ups Table
-
-| Investigation | Description |
-|:---:|:---:|
-| [Firewall Monitoring](Firewall-Monitoring/README.md) | Monitoring firewall logs to identify blocked connections, suspicious source IPs, unusual traffic patterns, and potential network attacks. |
-
----
 
 ## Investigation Methodology
 
