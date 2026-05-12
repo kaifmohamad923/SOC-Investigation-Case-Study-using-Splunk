@@ -51,7 +51,7 @@ This project demonstrates practical SIEM investigation workflows using SPL queri
 
 | Investigation | Description |
 |:---:|:---:|
-| [Firewall Monitoring](Firewall-Monitoring/README.md) | Monitoring firewall logs to identify blocked connections, suspicious source IPs, unusual traffic patterns, and potential network attacks. |
+| [Firewall Monitoring](Firewall Monitoring/README.md) | Monitoring firewall logs to identify blocked connections, suspicious source IPs, unusual traffic patterns, and potential network attacks. |
 
 ---
 
